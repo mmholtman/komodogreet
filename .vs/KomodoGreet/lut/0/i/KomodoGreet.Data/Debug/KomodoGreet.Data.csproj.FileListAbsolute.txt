@@ -1,0 +1,4 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\b\KomodoGreet.Data\bin\Debug\KomodoGreet.Data.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.Data\Debug\KomodoGreet.Data.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.Data\Debug\KomodoGreet.Data.csproj.CopyComplete
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.Data\Debug\KomodoGreet.Data.dll

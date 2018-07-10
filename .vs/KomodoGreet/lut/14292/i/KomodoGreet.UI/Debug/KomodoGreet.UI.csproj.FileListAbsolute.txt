@@ -1,0 +1,6 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\b\KomodoGreet.UI\bin\Debug\KomodoGreet.UI.exe.config
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\b\KomodoGreet.UI\bin\Debug\KomodoGreet.UI.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.UI\Debug\KomodoGreet.UI.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.UI\Debug\KomodoGreet.UI.csproj.CopyComplete
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.UI\Debug\KomodoGreet.UI.exe
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\.vs\KomodoGreet\lut\0\i\KomodoGreet.UI\Debug\KomodoGreet.UI.csprojAssemblyReference.cache

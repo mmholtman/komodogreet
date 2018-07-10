@@ -1,0 +1,6 @@
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\bin\Debug\KomodoGreet.Contracts.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\bin\Debug\KomodoGreet.Contracts.pdb
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\obj\Debug\KomodoGreet.Contracts.csprojAssemblyReference.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\obj\Debug\KomodoGreet.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\obj\Debug\KomodoGreet.Contracts.dll
+C:\Users\A217990\Documents\Visual Studio 2017\Projects\KomodoGreet\KomodoGreet.Contracts\obj\Debug\KomodoGreet.Contracts.pdb
